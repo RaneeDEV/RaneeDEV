@@ -3,4 +3,4 @@
 * :earth_americas: **Work Around the world ..**
 * :books: **Learn JavaScript & React**     
 * :zap: **Quickly complete tasks ..**
-* :white_check_mark: **97% complete works!**
+* :heavy_check_mark: **97% complete works!**
